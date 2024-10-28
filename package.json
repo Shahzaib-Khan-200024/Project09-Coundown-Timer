@@ -1,0 +1,21 @@
+{
+  "name": "c-se-countdown-timer-y-so-serious",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Shahzaib Khan",
+  "license": "MIT",
+  "description": "This is project called 'Countdown Timer'.",
+  "dependencies": {
+    "date-fns": "^4.1.0",
+    "inquirer": "^12.0.1"
+  },
+  "devDependencies": {
+    "@types/date-fns": "^2.5.3",
+    "@types/inquirer": "^9.0.7"
+  }
+}
